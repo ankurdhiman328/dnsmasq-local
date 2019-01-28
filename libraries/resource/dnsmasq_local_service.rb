@@ -197,6 +197,7 @@ class Chef # rubocop:disable Style/MultilineIfModifier
       #
       def environment_string(env)
         return nil if env.empty?
+
         env.map { |k, v| "#{k}='#{v}'" }.join("\n")
       end
     end

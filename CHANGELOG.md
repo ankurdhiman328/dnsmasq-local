@@ -5,6 +5,7 @@ This file is used to list changes made in each version of the dnsmasq-local cook
 ## 2.2.3 (2019-01-28)
 
 - Remove 'rvm: system' from the TravisCI config
+- Resolve new style offenses
 
 ## 2.2.2 (2018-05-03)
 
